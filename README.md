@@ -1,6 +1,6 @@
 # Measuring the Accuracy of Automatic Speech Recognition Solutions
 
-[LinkToDoi](Link To The paper)
+[https://dl.acm.org/doi/10.1145/3636513](https://dl.acm.org/doi/10.1145/3636513)
 
 The following tables list the recordings that were used for the dataset of this study.
 
